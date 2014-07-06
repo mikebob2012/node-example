@@ -1,0 +1,19 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "a cool app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "heroku"
+  ],
+  "author": "bob belderbos",
+  "license": "ISC",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.5.0"
+  }
+}
